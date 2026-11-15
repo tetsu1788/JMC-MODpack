@@ -53,10 +53,6 @@ file = "mods/Japanish-1.20.1-0.8.1.jar"
 hash = "7305bd181100cd122de243c4ddac34f0b36c43092f7a1e6ef2fa8555eff9af74"
 
 [[files]]
-file = "mods/Kaminari Motor Work 2.6.1 16-20.jar"
-hash = "75ceba3502d286796ac733f63fd5b351678b44b4e9da01cf6fedc1b9895af8be"
-
-[[files]]
 file = "mods/MSD-forge-1.20.1-4.0.5-1.4.5.jar"
 hash = "68d72270edc270abe4f5a295ddf6a30de3d6dac4313be17373052535366dbc37"
 
@@ -107,10 +103,6 @@ hash = "ffb61c81b9025297048fd647902f4c67c016073c0e94da100125e9aa1168c194"
 [[files]]
 file = "mods/ferritecore-6.0.1-forge.jar"
 hash = "9c2c9396a49e796d88497758caa4637d2bcbb433c318e2dd9cebcffbaf0f6c54"
-
-[[files]]
-file = "mods/forge-1.20.1-47.4.28-installer.jar"
-hash = "d615397a6b2f1e99d4b454e2db2b4ca2e94be91d5e0243c8c7e023d965db39e7"
 
 [[files]]
 file = "mods/geckolib-forge-1.20.1-4.8.4 (1).jar"
@@ -188,10 +180,6 @@ hash = "26ac23b4f5f644511a7292e4c6990367a3422219fd830e58abe3bd083216427c"
 [[files]]
 file = "resourcepacks/IVR - Japan Sign Pack v.1.1.0.zip"
 hash = "ff14012dbbae950d70c7df7a51f1bf505ddb95095748db6d268997e9bc2c3c76"
-
-[[files]]
-file = "resourcepacks/JR_East_E131_Series_v1.6.1.zip"
-hash = "68bbac9d9fb45f0229f3511a5516c0a10f3826c0a455536c9db87104febfafb6"
 
 [[files]]
 file = "resourcepacks/JR_East_E217_Series_v1.8.zip"
