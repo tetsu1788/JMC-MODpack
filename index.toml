@@ -1,0 +1,6 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/yunzhu-transit-extension.pw.toml"
+hash = "e58ed4c738620b4876d8d3d12dba57e1863a68f00818a5c55742789d80409fb6"
+metafile = true

@@ -1,0 +1,13 @@
+name = "JMC"
+author = "tetsu_1788"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "1ff9049eb073719a6d228cd15db5d54a68a85cace7fd2c4a8edbe0071d6522ce"
+
+[versions]
+forge = "47.4.29"
+minecraft = "1.20.1"

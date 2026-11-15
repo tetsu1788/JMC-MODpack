@@ -1,0 +1,13 @@
+name = "Yunzhu Transit Extension"
+filename = "Yunzhu-Transit-Extension-forge-1.0.2-prerelease.3+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nqMdKn6A/versions/cfTwRqg1/Yunzhu-Transit-Extension-forge-1.0.2-prerelease.3%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "eaddb441a8015473d6279181111ede38ef8ffe04231fbbd09fbf44cd8ab24e6797437b1c2dd7ea1c4b03aad7b73d88deaa0073dc088ded69e1982886750c8a0f"
+
+[update]
+[update.modrinth]
+mod-id = "nqMdKn6A"
+version = "cfTwRqg1"
