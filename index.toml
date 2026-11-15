@@ -1,6 +1,246 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/.connector/Japanish-1.20.1-0.8.1_mapped_srg_1.20.1.jar"
+hash = "ea0a3d72f4ff8325cfb1a1d3847c56c006a97add7fef9f578a1d9e9d52c13a29"
+
+[[files]]
+file = "mods/.connector/Japanish-1.20.1-0.8.1_mapped_srg_1.20.1.jar.input"
+hash = "2f13458da922354a9d883baff89b37eb2766987a2872d711e342ca59667a5f69"
+
+[[files]]
+file = "mods/.connector/mtr-japan-ticket-mod-1.20.1-6.1.0_mapped_srg_1.20.1.jar"
+hash = "bb9578f8a037d56dbd5577929532db30229864c71aa52e68c9665cd9c2159f9f"
+
+[[files]]
+file = "mods/.connector/mtr-japan-ticket-mod-1.20.1-6.1.0_mapped_srg_1.20.1.jar.input"
+hash = "efc60f122a4e18d88d5b7ccdb8cafd71956ddf2f61d820deabc93678c329da78"
+
+[[files]]
+file = "mods/CRTools-MTR-Map-Overlay-1.6.0-MC1.20.1-MTR4.0.5-forge.jar"
+hash = "f9b995b53adb5ec5bac95d46498c4b2569418a3fa674666d2428aef334b805ce"
+
+[[files]]
+file = "mods/ClickSigns-2.0-beta-7+1.20.1-forge.jar"
+hash = "ee5fed026a2895661dec65ef025f6523e370f1f15cc6d831c48ce759ec477f49"
+
+[[files]]
+file = "mods/Connector-1.0.0-beta.49+1.20.1.jar"
+hash = "caf19c97c0fce9158e03e354d4ebf556e8f1745c868da5dc4f6b7498727ab29f"
+
+[[files]]
+file = "mods/FramedBlocks-9.4.3.jar"
+hash = "58f4a8d8fb759a9db8754d83461df1b7b2e94426888259286d3acc316e6c6589"
+
+[[files]]
+file = "mods/ImmediatelyFast-Forge-1.5.5+1.20.4.jar"
+hash = "82db19cc65b5c11a444498fb4b8cbcb0393c043e794cb5bf368631a0af765035"
+
+[[files]]
+file = "mods/Immersive Vehicles-1.20.1-24.0.0.jar"
+hash = "274c68a6b6cf9bd5fd97af8358ce2d58fed2a49685f20079d744e8b74800277b"
+
+[[files]]
+file = "mods/InfiniteNighVision-1.20.1-NEOFORGE.jar"
+hash = "493d54b98e5b4d7410261a8eaea0541fe785b26e8253695b56bcdb0b2de4fd5c"
+
+[[files]]
+file = "mods/JCM-forge-2.3.0+1.20.1.jar"
+hash = "82621cafb0aaf788bd036e8daf959042fcd206f02c9c83c722ce909dd1bd109f"
+
+[[files]]
+file = "mods/Japanish-1.20.1-0.8.1.jar"
+hash = "7305bd181100cd122de243c4ddac34f0b36c43092f7a1e6ef2fa8555eff9af74"
+
+[[files]]
+file = "mods/Kaminari Motor Work 2.6.1 16-20.jar"
+hash = "75ceba3502d286796ac733f63fd5b351678b44b4e9da01cf6fedc1b9895af8be"
+
+[[files]]
+file = "mods/MSD-forge-1.20.1-4.0.5-1.4.5.jar"
+hash = "68d72270edc270abe4f5a295ddf6a30de3d6dac4313be17373052535366dbc37"
+
+[[files]]
+file = "mods/MTR-forge-4.0.5+1.20.1.jar"
+hash = "97466eb715ab02f50a7f7e23f920bf9fdd9d5e4bbb12620c06c6751324c66e9a"
+
+[[files]]
+file = "mods/MTS Official Pack-1.20.1-V29.jar"
+hash = "a6ca5d37a89fd398cafd96fc8f87673cec5b0247c1651bc0b9f02b23f86c7908"
+
+[[files]]
+file = "mods/ModernJapanCity-Forge-1.20.1-1.0.8.jar"
+hash = "94aee9dd78ff53eab28a914a1aa32e776979d8f12a51b8a782fd6e280fb8c0b5"
+
+[[files]]
+file = "mods/MouseTweaks-forge-mc1.20.1-2.25.1.jar"
+hash = "6c27d16aa715ac6613a55fc463739e2c7b78279e4e4c4cede299e4a2d4a70f08"
+
+[[files]]
+file = "mods/Yunzhu-Transit-Extension-forge-1.0.2-prerelease.3+1.20.1.jar"
+hash = "a6f31b2bc6dbcf775099d827f46a35f96ef7865b07a5dd7827e924e2a9347015"
+
+[[files]]
+file = "mods/architectury-9.2.14-forge (1).jar"
+hash = "218b471d0b8a1f6cda14cfc1beb9eeb0df54304500acc6c5613d9b88ec65d9af"
+
+[[files]]
+file = "mods/asphalt_revisioned-1.1.0-forge-1.20.1.jar"
+hash = "415b2a4c5fa470271462ba89c88a83e7d7bfd263ac40dd0f7d87a31ebc282525"
+
+[[files]]
+file = "mods/discord_chat_mod-forge-1.20.1-2.8.0.jar"
+hash = "bc7ff688590b5846f22e9be52d70a7522185939d1f726271ad4bfb032e3fe779"
+
+[[files]]
+file = "mods/effortlessbuilding-1.20.1-3.11.jar"
+hash = "c40ee9a5b49fb4721e6e6a629d6236a640b6da76f95e3f636c77db8f2eb92dc2"
+
+[[files]]
+file = "mods/embeddium-0.3.31+mc1.20.1.jar"
+hash = "eed3d1325f2acc2fd4e69bb495e5ccb91d962126ac5330f0582ebc2a3daf47fb"
+
+[[files]]
+file = "mods/fabric-api-0.92.6+1.11.15+1.20.1.jar"
+hash = "ffb61c81b9025297048fd647902f4c67c016073c0e94da100125e9aa1168c194"
+
+[[files]]
+file = "mods/ferritecore-6.0.1-forge.jar"
+hash = "9c2c9396a49e796d88497758caa4637d2bcbb433c318e2dd9cebcffbaf0f6c54"
+
+[[files]]
+file = "mods/forge-1.20.1-47.4.28-installer.jar"
+hash = "d615397a6b2f1e99d4b454e2db2b4ca2e94be91d5e0243c8c7e023d965db39e7"
+
+[[files]]
+file = "mods/geckolib-forge-1.20.1-4.8.4 (1).jar"
+hash = "c04abba4fd354dd8c0e8a732f1f05f4dca893d2e1d962b2ab128bbd411478747"
+
+[[files]]
+file = "mods/japanituremod-forge-4.0.1.jar"
+hash = "0612593e0c933d6db08779acda103fc99460960a1d2b9c73e26f6c796656cef9"
+
+[[files]]
+file = "mods/journeymap-forge-1.20.1-6.0.7.jar"
+hash = "65cf198bd2ec41b2c1ac24a28544dddc74d5ef63222ebf3d393b76fa7bdc7a23"
+
+[[files]]
+file = "mods/mcw-furniture-3.4.1-mc1.20.1forge.jar"
+hash = "9f068315ac5ae7c4b76a6ac0679cde9be59d5cbf37488a477f13b95fe1cbc37d"
+
+[[files]]
+file = "mods/minedevice-forge-2.0.1.jar"
+hash = "856e3f974c2cda62ed79cc1f70c67d479225ef8f807ad4cfa42660282dc02709"
+
+[[files]]
+file = "mods/modernfix-forge-5.27.93+mc1.20.1.jar"
+hash = "83543866ec17b2d8080bd3f288d0c12612e57e0b744c886a31d28befb12b7291"
+
+[[files]]
+file = "mods/mtr-japan-ticket-mod-1.20.1-6.1.0.jar"
+hash = "f7babeb429a672fd35e288585e33cd730da1daa2eb6e661735b400abfa3af8d3"
+
+[[files]]
+file = "mods/oculus-mc1.20.1-1.8.0.jar"
+hash = "0945df0cba0f62b3901dd80c3268e5311b770ece78c78037a45db12ac0425fef"
+
+[[files]]
+file = "mods/radium-mc1.20.1-0.12.4+git.26c9d8e.jar"
+hash = "b42584e2672d6b5329959ec2b0f342395b19389fed0ee4d86ea71072f42f77a0"
+
+[[files]]
+file = "mods/wablock-1.20.1-1.0.1.jar"
+hash = "3dc84cc7fd5a91f83130c605aa014f9da0cbcac30014a487448a18fe43a6c77d"
+
+[[files]]
+file = "mods/wacanvas-forge-1.20.1-1.0.jar"
+hash = "a262c2b812ce132a21e0e99065e17540e3ee5fb2004b911a76d88390b2561be5"
+
+[[files]]
+file = "mods/worldedit-mod-7.2.15.jar"
+hash = "17db6b3e94f52d25426684663e1e1846823cbb7907f1c365ac329e5bc7bfaf2c"
+
+[[files]]
 file = "mods/yunzhu-transit-extension.pw.toml"
 hash = "e58ed4c738620b4876d8d3d12dba57e1863a68f00818a5c55742789d80409fb6"
 metafile = true
+
+[[files]]
+file = "mods/yuushya-1.20.1-forge-2.3.0.jar"
+hash = "2c9585c2433958fd173f9a658e08dfc0dbbe5322fdeee3b8e0510222a159ecf1"
+
+[[files]]
+file = "resourcepacks/DEWON-E7-W7-2.0-MTR4.zip"
+hash = "6a6d6c0910a4b8d58974fa37259ec7f21729a75761bb519fe5a620c8bc1d93e9"
+
+[[files]]
+file = "resourcepacks/DEWON-N700_&_Kamome-4.0-MTR4.zip"
+hash = "b391e24e931b9cca185995b6fadf912ed64b59e8e7d48009f7905f168a5581ac"
+
+[[files]]
+file = "resourcepacks/Hankyu_9000_Series_V1.1.1.zip"
+hash = "aee332bf7e045dcccc392fe34c84289ead1f8db440290a3775e82ebbe1b19ca8"
+
+[[files]]
+file = "resourcepacks/Henoke Japanese BusPack V1.1.zip"
+hash = "26ac23b4f5f644511a7292e4c6990367a3422219fd830e58abe3bd083216427c"
+
+[[files]]
+file = "resourcepacks/IVR - Japan Sign Pack v.1.1.0.zip"
+hash = "ff14012dbbae950d70c7df7a51f1bf505ddb95095748db6d268997e9bc2c3c76"
+
+[[files]]
+file = "resourcepacks/JR_East_E131_Series_v1.6.1.zip"
+hash = "68bbac9d9fb45f0229f3511a5516c0a10f3826c0a455536c9db87104febfafb6"
+
+[[files]]
+file = "resourcepacks/JR_East_E217_Series_v1.8.zip"
+hash = "2c14d350c00051e30d4598e272b81c91bab280c31751d65847a813ae792fd6ea"
+
+[[files]]
+file = "resourcepacks/JR_East_E235_Series_v1.9.zip"
+hash = "188813cc480be6ca4c99e45c856968bef574125b5a30700b092484b55f0cb81c"
+
+[[files]]
+file = "resourcepacks/Japan_Style_PIDS日式PIDSv1.0.6.zip"
+hash = "cc09986cecb0d714ab98ed04ceca8cea6091049b970fd55332d947417ad72c9e"
+
+[[files]]
+file = "resourcepacks/Japanese_AccessoriesV1.5.zip"
+hash = "9bcf7d07f4d8e7b9a1d53d892f289199d19bb637552a1c992da15edd2e6ed61f"
+
+[[files]]
+file = "resourcepacks/Japanese_PIDS v2.0.1.zip"
+hash = "b63ffae204aa1160ec746d0b769c78bb56f66a550cccc549d693db68ddda66dd"
+
+[[files]]
+file = "resourcepacks/Keikyu_N1000_Series_v1.2.zip"
+hash = "71e318ef30620cd89497b7df986d4e146eb2b73032ad455fbe3751f313caa3a1"
+
+[[files]]
+file = "resourcepacks/MTR_srt_JRTrains_4.0_251012.zip"
+hash = "d011163a7fda37c51c151dcf9ddbc965ed1c50f327c6c7acbd31144faad8fa28"
+
+[[files]]
+file = "resourcepacks/Raincity_D.zip"
+hash = "f476d8e21bed4647d7e47c2e998cca42a7f054eebd7f28db4f1287426b33f3b6"
+
+[[files]]
+file = "resourcepacks/TWR_71-000_Series_V1.5.zip"
+hash = "d84122b833a082ea4de4a90abf5e41a22b0cce580f8a480f099921b8e6b97fd4"
+
+[[files]]
+file = "resourcepacks/[1.21] HayaKoh's_station_clicksign 2-0-0.zip"
+hash = "7a7c2c7a2be3cb7ee5a56be99787e6efcd6589397021d91ae156c1ff2b205961"
+
+[[files]]
+file = "resourcepacks/[MTR]413series.zip"
+hash = "a970f3c1b3edd72c33ebc409f90b5e73e5b016e7fae4677f7edc3e8adace19c9"
+
+[[files]]
+file = "resourcepacks/[MTR]shimannamon_rail.zip"
+hash = "6f3f42f5bdb7fcd8d382d34a2befcde720f2e8b6b1e4f5d0be21941a8e7c024c"
+
+[[files]]
+file = "resourcepacks/botamochi129_Rail_Structure_Pack_v.1.5_mtr4.zip"
+hash = "fc83f401d594f258d5dc26e272303a7d7cfce09b833e5774ffcd588fd639088e"
